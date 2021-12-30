@@ -1,0 +1,84 @@
+
+.name{
+
+    background-image: url(images/pewdsbg.png);
+    background-size: cover;
+    background-attachment: fixed;
+    text-transform: initial;
+}
+.container{
+    margin-top: 100px;
+    color: rgb(241, 55, 92);
+    background-color: black;
+    background-size: cover;
+    
+}
+section{
+    color:white;
+    text-shadow: 0px 2px 3px black;
+    
+    
+}
+img{
+    width: 50%;
+    height:auto;
+}
+h1{
+    color: black;
+    background-color: crimson;
+    padding: 1rem;
+    margin: -11px;
+}
+
+h3{
+    color: black;
+    background-color: crimson;
+    position: inherit;
+    text-align: center;
+    padding: 5px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+
+
+footer a{
+    color:black;
+}
+
+#tribute-link{
+    background:crimson;
+    text-align:center;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    padding: 30px;
+}
+#tribute-link a:hover{
+    background-color: black;
+    border-radius: 5px;
+    color: crimson;
+    font-size: 1.1rem;
+    padding: 1px 1px 1px 1px;
+    
+}
+#stand{
+    position: relative;
+    bottom: 70px;
+}
+
+#pewds{
+    justify-self: center;
+    max-width: 400px;
+}
+
+
+
+@media (max-width:580px){
+   
+  #links{
+      margin-top: -2.5%;
+  }
+       
+   }
+   
+ 
