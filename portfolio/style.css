@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 1.5rem;
+    color: black;
+}
+#navbar{
+    margin: 0px;
+    background: blueviolet;
+    font-size: 1.5rem;
+}
